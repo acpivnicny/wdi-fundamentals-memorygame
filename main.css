@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+h1 {
+font-family: "Raleway", sans-serif;
+color: #0D2C40
+font-size 45px;
+font-weight: 400;
+
+}
+
+h2 {
+font-family: "Raleway", sans-serif;
+color: #F15B31
+font-size 18px;
+font-weight: 600;
+
+}
+
+p {
+font-family: "Droid Serif", serif;
+line-height: 26px
+font-size: 18px;
+}
