@@ -23,3 +23,15 @@ font-family: "Droid Serif", serif;
 line-height: 26px
 font-size: 18px;
 }
+
+header {
+  background-color: yellow;
+}
+
+nav {
+  background-color: orange;
+}
+
+section {
+  margin: auto 0;
+}
